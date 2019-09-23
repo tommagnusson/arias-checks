@@ -1,6 +1,0 @@
-check50:
-  checks:
-    hello world:
-      - run: python3 hello.py
-        stout: Hello, instructor!
-        exit: 0
